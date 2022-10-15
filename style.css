@@ -18,8 +18,8 @@ body {
 .card {
     margin: auto;
     padding: 24px;
-    width: 320px;
-    height: 320px;
+    width: 360px;
+    height: 360px;
     
     background: -webkit-radial-gradient(top, #28313c -30%, #0d1218 80%), #11171f;
     background-repeat: no-repeat;
