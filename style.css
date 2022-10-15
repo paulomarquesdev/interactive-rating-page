@@ -34,6 +34,9 @@ main {
 }
 
 @media screen and (max-width: 768px) {
+    * {
+        --app-height: 100%;
+    }
     .card {
         width: 85%;
         height: 350px;
